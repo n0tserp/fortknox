@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Runtime files
+FORTKNOX_RECOVERY.json
+*.json
+
+# Mac junk
+.DS_Store
