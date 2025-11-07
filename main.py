@@ -1,4 +1,4 @@
-# main.py ← FINAL CLEAN VERSION (replace ALL)
+# main.py — Fort Knox Taproot Vault (n0tserp)
 import sys, json, os
 from PyQt6.QtWidgets import *
 from PyQt6.QtCore import *
