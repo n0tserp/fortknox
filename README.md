@@ -14,3 +14,7 @@ git clone https://github.com/n0tserp/fortknox
 cd fortknox
 ./run.sh          # macOS
 run.bat           # Windows
+
+## License
+**MIT** © n0tserp  
+Copy, fork, ship, sell, hire me — zero restrictions.
